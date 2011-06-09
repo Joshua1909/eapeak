@@ -1,0 +1,12 @@
+EAPeak INSTALL
+
+Requirements:
+Python 2.7
+M2Crypto
+Scapy 2.1.1-dev
+	http://hg.secdev.org/scapy-com
+	(Must use the community repository)
+
+How To Install:
+python setup.py build
+python setup.py install
